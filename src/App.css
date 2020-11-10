@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  justify-content: center;
+  color: white;
+  width: 100vw;
+  min-height: 30vh;
+  background-color: black;
+  position: relative;
+}
+
+.Lower {
+    text-align: center;
+    justify-content: center;
+    color: white;
+    width: 100vw;
+    min-height: 30vh;
+    position: relative;
+    background-color: #5d4037;
+}
+
+.Second {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  background-color: #5d4037;
+  height: 70vh;
+  width: 100vw;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
